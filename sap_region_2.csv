@@ -1,0 +1,239 @@
+Country,Region,Country_Code_Alpha_2,Country_Code_Alpha_3
+Afghanistan,EMEA South,AF,AFG
+Aland Islands,EMEA North,AX,ALA
+Albania,Middle & Eastern Europe,AL,ALB
+Algeria,EMEA South,DZ,DZA
+American Samoa,APJ excl. GC,AS,ASM
+Andorra,EMEA South,AD,AND
+Angola,EMEA South,AO,AGO
+Anguilla,Latin America,AI,AIA
+Antigua and Barbuda,Latin America,AG,ATG
+Argentina,Latin America,AR,ARG
+Armenia,EMEA South,AM,ARM
+Aruba,Latin America,AW,ABW
+Australia,APJ excl. GC,AU,AUS
+Austria,Middle & Eastern Europe,AT,AUT
+Azerbaijan,Middle & Eastern Europe,AZ,AZE
+Bahamas,Latin America,BS,BHS
+Bahrain,EMEA South,BH,BHR
+Bangladesh,APJ excl. GC,BD,BGD
+Barbados,Latin America,BB,BRB
+Belarus,Middle & Eastern Europe,BY,BLR
+Belgium,EMEA North,BE,BEL
+Belize,Latin America,BZ,BLZ
+Benin,EMEA South,BJ,BEN
+Bermuda,Latin America,BM,BMU
+Bhutan,APJ excl. GC,BT,BTN
+Bolivia,Latin America,BO,BOL
+Bosnia and Herzegovina,Middle & Eastern Europe,BA,BIH
+Botswana,EMEA South,BW,BWA
+Brazil,Latin America,BR,BRA
+British Indian Ocean Territory,EMEA North,IO,IOT
+British Virgin Islands,Latin America,VG,VGB
+Brunei Darussalam,APJ excl. GC,BN,BRN
+Bulgaria,Middle & Eastern Europe,BG,BGR
+Burkina Faso,EMEA South,BF,BFA
+Burundi,EMEA South,BI,BDI
+Cambodia,APJ excl. GC,KH,KHM
+Cameroon,EMEA South,CM,CMR
+Canada,North America,CA,CAN
+Cape Verde,EMEA South,CV,CPV
+Cayman Islands,Latin America,KY,CYM
+Central African Republic,EMEA South,CF,CAF
+Chad,EMEA South,TD,TCD
+Chile,Latin America,CL,CHL
+China,Greater China,CN,CHN
+Christmas Island,Latin America,CX,CXR
+Cocos (Keeling) Islands,APJ excl. GC,CC,CCK
+Colombia,Latin America,CO,COL
+Comoros,EMEA South,KM,COM
+Congo,EMEA South,CG,COG
+Cook Islands,APJ excl. GC,CK,COK
+Costa Rica,Latin America,CR,CRI
+Cote Divoire,EMEA South,CI,CIV
+Croatia,Middle & Eastern Europe,HR,HRV
+Cuba,Latin America,CU,CUB
+Cyprus,EMEA South,CY,CYP
+Czech Republic,Middle & Eastern Europe,CZ,CZE
+Democratic Republic of the Congo,EMEA South,CD,COD
+Denmark,EMEA North,DK,DNK
+Djibouti,EMEA South,DJ,DJI
+Dominica,Latin America,DM,DMA
+Dominican Republic,Latin America,DO,DOM
+Ecuador,Latin America,EC,ECU
+Egypt,EMEA South,EG,EGY
+El Salvador,Latin America,SV,SLV
+Equatorial Guinea,EMEA South,GQ,GNQ
+Eritrea,EMEA South,ER,ERI
+Estonia,EMEA North,EE,EST
+Ethiopia,EMEA South,ET,ETH
+Falkland Islands (Malvinas),EMEA North,FK,FLK
+Faroe Islands,EMEA North,FO,FRO
+Fiji,APJ excl. GC,FJ,FJI
+Finland,EMEA North,FI,FIN
+France,EMEA North,FR,FRA
+French Guiana,Latin America,GF,GUF
+French Polynesia,APJ excl. GC,PF,PYF
+Gabon,EMEA South,GA,GAB
+Gambia,EMEA South,GM,GMB
+Georgia,Middle & Eastern Europe,GE,GEO
+Germany,Middle & Eastern Europe,DE,DEU
+Ghana,EMEA South,GH,GHA
+Gibraltar,EMEA North,GI,GIB
+Greece,EMEA South,GR,GRC
+Greenland,EMEA North,GL,GRL
+Grenada,Latin America,GD,GRD
+Guadeloupe,EMEA North,GP,GLP
+Guam,APJ excl. GC,GU,GUM
+Guatemala,Latin America,GT,GTM
+Guinea,EMEA South,GN,GIN
+Guinea-Bissau,EMEA South,GW,GNB
+Guyana,Latin America,GY,GUY
+Haiti,Latin America,HT,HTI
+Honduras,Latin America,HN,HND
+Hong Kong,Greater China,HK,HKG
+Hungary,Middle & Eastern Europe,HU,HUN
+Iceland,EMEA North,IS,ISL
+India,APJ excl. GC,IN,IND
+Indonesia,APJ excl. GC,ID,IDN
+Iraq,EMEA South,IQ,IRQ
+Ireland,EMEA North,IE,IRL
+Islamic Republic of Iran,EMEA South,IR,IRN
+Israel,EMEA South,IL,ISR
+Italy,EMEA South,IT,ITA
+Jamaica,Latin America,JM,JAM
+Japan,APJ excl. GC,JP,JPN
+Jordan,EMEA South,JO,JOR
+Kazakhstan,Middle & Eastern Europe,KZ,KAZ
+Kenya,EMEA South,KE,KEN
+Kiribati,APJ excl. GC,KI,KIR
+Korea (North),APJ excl. GC,KP,PRK
+Korea (South),APJ excl. GC,KR,KOR
+Kuwait,EMEA South,KW,KWT
+Kyrgyzstan,Middle & Eastern Europe,KG,KGZ
+Laos,APJ excl. GC,LA,LAO
+Latvia,EMEA North,LV,LVA
+Lebanon,EMEA South,LB,LBN
+Lesotho,EMEA South,LS,LSO
+Liberia,EMEA South,LR,LBR
+Libyan Arab Jamahiriya,EMEA South,LY,LBY
+Liechtenstein,Middle & Eastern Europe,LI,LIE
+Lithuania,EMEA North,LT,LTU
+Luxembourg,EMEA North,LU,LUX
+Macau,Greater China,MO,MAC
+Macedonia,Middle & Eastern Europe,MK,MKD
+Madagascar,EMEA South,MG,MDG
+Malawi,EMEA South,MW,MWI
+Malaysia,APJ excl. GC,MY,MYS
+Maldives,APJ excl. GC,MV,MDV
+Mali,EMEA South,ML,MLI
+Malta,EMEA South,MT,MLT
+Marshall Islands,North America,MH,MHL
+Martinique,EMEA North,MQ,MTQ
+Mauritania,EMEA South,MR,MRT
+Mauritius,EMEA South,MU,MUS
+Mayotte,EMEA South,YT,MYT
+Mexico,Latin America,MX,MEX
+Micronesia,APJ excl. GC,FM,FSM
+"Moldova, Republic of",Middle & Eastern Europe,MD,MDA
+Monaco,EMEA North,MC,MCO
+Mongolia,Greater China,MN,MNG
+Montserrat,EMEA North,MS,MSR
+Morocco,EMEA South,MA,MAR
+Mozambique,EMEA South,MZ,MOZ
+Myanmar,APJ excl. GC,MM,MMR
+Namibia,EMEA South,NA,NAM
+Nauru,APJ excl. GC,NR,NRU
+Nepal,APJ excl. GC,NP,NPL
+Netherlands,EMEA North,NL,NLD
+New Caledonia,APJ excl. GC,NC,NCL
+New Zealand,APJ excl. GC,NZ,NZL
+Nicaragua,Latin America,NI,NIC
+Niger,EMEA South,NE,NER
+Nigeria,EMEA South,NG,NGA
+Niue,APJ excl. GC,NU,NIU
+Norfolk Island,APJ excl. GC,NF,NFK
+Northern Mariana Islands,APJ excl. GC,MP,MNP
+Norway,EMEA North,NO,NOR
+Oman,EMEA South,OM,OMN
+Pakistan,EMEA South,PK,PAK
+Palau,APJ excl. GC,PW,PLW
+Palestinian Territory,EMEA South,PS,PSE
+Panama,Latin America,PA,PAN
+Papua New Guinea,APJ excl. GC,PG,PNG
+Paraguay,Latin America,PY,PRY
+Peru,Latin America,PE,PER
+Philippines,APJ excl. GC,PH,PHL
+Poland,Middle & Eastern Europe,PL,POL
+Portugal,EMEA South,PT,PRT
+Puerto Rico,Latin America,PR,PRI
+Qatar,EMEA South,QA,QAT
+Reunion,EMEA North,RE,REU
+Romania,Middle & Eastern Europe,RO,ROU
+Russian Federation,Middle & Eastern Europe,RU,RUS
+Rwanda,EMEA South,RW,RWA
+Saint Lucia,Latin America,LC,LCA
+Samoa,APJ excl. GC,WS,WSM
+San Marino,EMEA South,SM,SMR
+Sao Tome and Principe,EMEA South,ST,STP
+Saudi Arabia,EMEA South,SA,SAU
+Senegal,EMEA South,SN,SEN
+Serbia,Middle & Eastern Europe,RS,SRB
+Seychelles,EMEA South,SC,SYC
+Sierra Leone,EMEA South,SL,SLE
+Singapore,APJ excl. GC,SG,SGP
+Slovakia,Middle & Eastern Europe,SK,SVK
+Slovenia,Middle & Eastern Europe,SI,SVN
+Solomon Islands,APJ excl. GC,SB,SLB
+Somalia,EMEA South,SO,SOM
+South Africa,EMEA South,ZA,ZAF
+Spain,EMEA South,ES,ESP
+Sri Lanka,APJ excl. GC,LK,LKA
+St. Helena,EMEA North,SH,SHN
+St. Kitts and Nevis,Latin America,KN,KNA
+St. Pierre and Miquelon,EMEA North,PM,SPM
+St. Vincent's & Grenadines,Latin America,VC,VCT
+Sudan,EMEA South,SD,SDN
+Suriname,Latin America,SR,SUR
+Swaziland,EMEA South,SZ,SWZ
+Sweden,EMEA North,SE,SWE
+Switzerland,Middle & Eastern Europe,CH,CHE
+Syrian Arab Republic,EMEA South,SY,SYR
+Taiwan,Greater China,TW,TWN
+Tajikistan,Middle & Eastern Europe,TJ,TJK
+"Tanzania, United Republic of",EMEA South,TZ,TZA
+Thailand,APJ excl. GC,TH,THA
+Timor-Leste,APJ excl. GC,TL,TLS
+Togo,EMEA South,TG,TGO
+Tonga,APJ excl. GC,TO,TON
+Trinidad and Tobago,Latin America,TT,TTO
+Tunisia,EMEA South,TN,TUN
+Turkey,EMEA South,TR,TUR
+Turkmenistan,Middle & Eastern Europe,TM,TKM
+Turks and Caicos Islands,Latin America,TC,TCA
+Tuvalu,APJ excl. GC,TV,TUV
+Uganda,EMEA South,UG,UGA
+Ukraine,Middle & Eastern Europe,UA,UKR
+United Arab Emirates,EMEA South,AE,ARE
+United Kingdom (Great Britain),EMEA North,GB,VGB
+United States,North America,US,USA
+United States Virgin Islands,North America,VI,VIR
+Uruguay,Latin America,UY,URY
+Uzbekistan,Middle & Eastern Europe,UZ,UZB
+Vanuatu,APJ excl. GC,VU,VUT
+Vatican City State,EMEA South,VA,VAT
+Venezuela,Latin America,VE,VEN
+Vietnam,APJ excl. GC,VN,VNM
+Wallis And Futuna Islands,EMEA North,WF,WLF
+Yemen,EMEA South,YE,YEM
+Zambia,EMEA South,ZM,ZMB
+Zimbabwe,EMEA South,ZW,ZWE
+United Kingdom,EMEA North,GB,GBR
+Bri. Virgin Is.,Latin America,VG,VGB
+Russia,Middle & Eastern Europe,RU,RUS
+South Korea,APJ excl. GC,KR,KOR
+Tanzania,EMEA South,TZ,TZA
+Côte D'Ivoire,EMEA South,CI,CIV
+Equator. Guinea,EMEA South,GQ,GNQ
+United Arab Em.,EMEA South,AE,ARE
+Dem. Rep. Congo,EMEA South,CD,COD
